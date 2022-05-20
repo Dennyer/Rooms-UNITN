@@ -1,0 +1,13 @@
+*/keys.cfg
+keys.cfg
+
+*/_pycache_/*/*
+*/_pycache_/*
+_pycache_/*/*
+_pycache_/*
+
+*.log
+*/*.log
+
+dictionary.py
+*/dictionary.py

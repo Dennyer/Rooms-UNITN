@@ -1,0 +1,12 @@
+Versione 1.2
+
+If you have only one choice when you want to look for rooms now it doesn't show the choice menu, it selects the only choice automatically
+The number of columns on the text that displays the rooms changed from 2 to 3 to improve UX on mobile
+
+Version 1.1
+
+I decided to reduce the message where the schedule for a certain room is presented so it doesn't take the whole screen.
+
+Version 1.0
+
+All basic function are there and the bot works.
